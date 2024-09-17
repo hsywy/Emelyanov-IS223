@@ -6,5 +6,6 @@ fun main() {
     val num = readLine()!!.toInt()
 
 // Выводим сообщение и само число
-    println("Вы ввели число")
+    println("Вы ввели число: ")
+    println(num)
 }
